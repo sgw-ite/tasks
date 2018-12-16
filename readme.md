@@ -1,4 +1,4 @@
-### Mainly for works in AI club in the Unique Studio
+### This repository is mainly for works in AI club in the Unique Studio
 
 ##### list
 
