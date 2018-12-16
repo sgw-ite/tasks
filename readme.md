@@ -8,9 +8,8 @@
     - svm
     - adaboost
     - bagging
-- dl
-    - cv
-        - style transfer
-	- pic classify in cifar10
-    - nlp
-    	- movie review classify
+- cv in DL
+    - style transfer
+    - pic classify in cifar10
+- nlp in DL
+    - movie review classify
